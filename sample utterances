@@ -1,0 +1,35 @@
+GetNewFactIntent a fact about Richmond
+GetNewFactIntent give me a fact
+GetNewFactIntent a fact
+GetNewFactIntent a richmond fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a richmond fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a richmond fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a richmond trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a richmond trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some richmond information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
+GetNewFactIntent a RVA fact
+GetNewFactIntent tell me a RVA fact
+GetNewFactIntent give me a RVA fact
+GetNewFactIntent start
+GetNewFactIntent launch
+GetNewFactIntent open
+GetNewFactIntent run
+GetNewFactIntent load
+GetNewFactIntent use
+GetNewFactIntent ask
+GetNewFactIntent play
+GetNewFactIntent resume
+GetNewFactIntent tell me a RVA trivia
+GetNewFactIntent give me a RVA trivia
+GetNewFactIntent give me some RVA information
+AMAZON.StopIntent stop
+AMAZON.StopIntent off
+AMAZON.StopIntent shut up
+AMAZON.StopIntent no
